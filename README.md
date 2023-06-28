@@ -3,5 +3,5 @@
 Please create json file "MacAddress.json"
 
     {
-        mac_address:"ff-ff-ff-ff-ff"
+        "mac_address":"ff-ff-ff-ff-ff"
     }
